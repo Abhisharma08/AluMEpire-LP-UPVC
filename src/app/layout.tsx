@@ -5,8 +5,8 @@ import Script from 'next/script';
 import { Analytics } from '@vercel/analytics/react';
 
 export const metadata: Metadata = {
-  title: 'AluEmpire | Sliding Partition Doors',
-  description: 'Transform your interiors with elegant, flexible, and space-saving sliding partition doors tailored to your design vision.',
+  title: 'AluEmpire | uPVC Doors & Windows',
+  description: 'Discover a smarter, stronger, and more sustainable way to style your home with Alu Empire’s high-performance uPVC doors and windows. Designed for durability, comfort, and modern aesthetics — we bring you lasting quality with minimal upkeep.',
 };
 
 export default function RootLayout({
