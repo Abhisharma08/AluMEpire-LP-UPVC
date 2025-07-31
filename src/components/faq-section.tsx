@@ -7,20 +7,20 @@ import {
   
   const faqs = [
     {
-      question: "Difference between single vs double-glazed?",
-      answer: "Single-glazed: Offers transparency and affordability. DGU: Double-pane with insulated air/gas layer—superior soundproofing, energy efficiency, and condensation control."
+      question: "Can partitions reduce office noise?",
+      answer: "Yes—double-glazed (DGU) partitions provide excellent acoustic insulation, ideal for meeting rooms and private cabins."
     },
     {
-      question: "Is it easy to maintain?",
-      answer: "Yes—glass requires simple wipes; aluminium resists corrosion. DGU helps prevent moisture on surfaces."
+      question: "Are they durable in humid environments?",
+      answer: "Definitely. Aluminium frames resist rust and corrosion, making them ideal for long-term use—even in high-humidity zones."
     },
     {
-      question: "Can I match my office's interior branding?",
-      answer: "Absolutely—choose from frosted, tinted, or clear glass, plus custom frame finishes to complement your interiors."
+      question: "Is customization possible for glass design?",
+      answer: "Yes—options include clear, frosted, patterned, or tinted glass to match your style and privacy needs."
     },
     {
-      question: "How quick is installation?",
-      answer: "Modular, prefabricated profiles and concealed fittings allow swift, low-impact installations."
+      question: "Will installation disrupt work hours?",
+      answer: "Not at all. Our modular systems ensure fast, clean installation with minimal disruption to your workflow."
     },
   ]
   
