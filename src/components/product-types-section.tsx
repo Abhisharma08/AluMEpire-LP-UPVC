@@ -39,7 +39,7 @@ export default function ProductTypesSection() {
             Explore our range of aluminium and glass partition systems, designed for every need.
           </p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
           {products.map((product) => (
             <Card key={product.name} className="overflow-hidden bg-background border-border/20 hover:shadow-xl transition-shadow duration-300 flex flex-col">
               <CardHeader className="p-0">
