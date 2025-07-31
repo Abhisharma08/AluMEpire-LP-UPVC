@@ -7,23 +7,23 @@ const products = [
   {
     name: 'Windows',
     description: 'From sliding to casement designs, our uPVC windows combine style with functionality. Enjoy wide-open views, fresh air, and exceptional performance.',
-    image: 'https://res.cloudinary.com/ddqqlfsjp/image/upload/v1752499461/WhatsApp_Image_2025-07-14_at_5.46.15_PM_ivbbij.jpg',
+    image: 'https://res.cloudinary.com/ddqqlfsjp/image/upload/v1753953824/WhatsApp_Image_2025-07-31_at_2.51.03_PM_1_cbmg1g.jpg',
     aiHint: 'Windows',
   },
   {
     name: 'Doors',
     description: 'Choose from a variety of uPVC doors that enhance your home’s entrance while ensuring security and energy efficiency. Stylish, sturdy, and weatherproof.',
-    image: 'https://res.cloudinary.com/ddqqlfsjp/image/upload/v1752499461/WhatsApp_Image_2025-07-14_at_5.46.14_PM_2_ru49cq.jpg',
+    image: 'https://res.cloudinary.com/ddqqlfsjp/image/upload/v1753953824/WhatsApp_Image_2025-07-31_at_2.51.03_PM_kw6mkm.jpg',
     aiHint: 'Doors',
     
   },
-  {
-    name: 'Accessories',
-    description: 'Complete your installation with premium accessories designed to complement and enhance your uPVC door and window systems.',
-    image: 'https://res.cloudinary.com/ddqqlfsjp/image/upload/v1752499461/WhatsApp_Image_2025-07-14_at_5.46.14_PM_1_wmhkuw.jpg',
-    aiHint: 'Accessories',
+  // {
+  //   name: 'Accessories',
+  //   description: 'Complete your installation with premium accessories designed to complement and enhance your uPVC door and window systems.',
+  //   image: 'https://res.cloudinary.com/ddqqlfsjp/image/upload/v1752499461/WhatsApp_Image_2025-07-14_at_5.46.14_PM_1_wmhkuw.jpg',
+  //   aiHint: 'Accessories',
    
-  },
+  // },
 ];
 
 export default function ProductTypesSection() {
