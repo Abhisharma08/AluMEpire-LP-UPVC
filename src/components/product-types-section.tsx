@@ -36,7 +36,7 @@ export default function ProductTypesSection() {
           </div>
           <h2 className="text-3xl font-bold font-body text-primary sm:text-4xl">Our Products</h2>
           <p className="mt-4 max-w-2xl mx-auto text-lg text-muted-foreground">
-            Explore our range of aluminium and glass partition systems, designed for every need.
+            
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
