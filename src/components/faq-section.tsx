@@ -7,20 +7,20 @@ import {
   
   const faqs = [
     {
-      question: "Can partitions reduce office noise?",
-      answer: "Yes—double-glazed (DGU) partitions provide excellent acoustic insulation, ideal for meeting rooms and private cabins."
+      question: "Why should I choose uPVC doors and windows over traditional materials?",
+      answer: "uPVC offers superior insulation, long-term durability, and resistance to rust, rot, and corrosion—making it a better-performing and low-maintenance alternative to wood or metal. It also provides excellent value at a more affordable cost."
     },
     {
-      question: "Are they durable in humid environments?",
-      answer: "Definitely. Aluminium frames resist rust and corrosion, making them ideal for long-term use—even in high-humidity zones."
+      question: "Are uPVC windows energy efficient?",
+      answer: "Yes, uPVC doors and windows provide outstanding thermal insulation. They help maintain a consistent indoor temperature, reducing the need for excessive heating or cooling—ultimately lowering your energy bills."
     },
     {
-      question: "Is customization possible for glass design?",
-      answer: "Yes—options include clear, frosted, patterned, or tinted glass to match your style and privacy needs."
+      question: "Do uPVC windows require a lot of maintenance?",
+      answer: "Not at all. uPVC is extremely low maintenance. Unlike wood, it doesn’t require polishing or painting, and it won’t rust or warp. A simple wipe with a damp cloth is usually enough to keep it clean."
     },
     {
-      question: "Will installation disrupt work hours?",
-      answer: "Not at all. Our modular systems ensure fast, clean installation with minimal disruption to your workflow."
+      question: "Are uPVC doors and windows secure?",
+      answer: "Absolutely. uPVC frames are tough and designed to hold advanced locking systems, offering enhanced protection against break-ins. They help improve the safety and security of your home."
     },
   ]
   
