@@ -1,4 +1,3 @@
-// app/thank-you/page.tsx (or wherever your ThankYouPage lives)
 import { Suspense } from 'react';
 import Script from 'next/script';
 import { Loader2 } from 'lucide-react';
@@ -19,14 +18,19 @@ function ThankYouFallback() {
 }
 
 export default function ThankYouPage() {
+  const CONV_LABEL = 'AW-16659725378/hfuVCK_Ltv0aEML4_Ic-';
+
   return (
     <>
-      {/* Fire the conversion event once the page is interactive */}
+     
+      {/* Fire your Google Ads conversion event */}
       <Script id="gtag-conversion" strategy="afterInteractive">
         {`
-          gtag('event', 'conversion', {
-            'send_to': 'AW-17338354366/8sWpCITnsfEaEL6VyctA'
-          });
+          if (typeof gtag === 'function') {
+            gtag('event', 'conversion', {
+              'send_to': '${CONV_LABEL}'
+            });
+          }
         `}
       </Script>
 
