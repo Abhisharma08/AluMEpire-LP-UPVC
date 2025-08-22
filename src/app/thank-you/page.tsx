@@ -18,7 +18,7 @@ function ThankYouFallback() {
 }
 
 export default function ThankYouPage() {
-  const CONV_LABEL = 'AW-16659725378/hfuVCK_Ltv0aEML4_Ic-';
+  const CONV_LABEL = 'AW-17338354366/8sWpCITnsfEaEL6VyctA';
 
   return (
     <>

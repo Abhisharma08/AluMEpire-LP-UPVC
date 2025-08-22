@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     'Discover a smarter, stronger, and more sustainable way to style your home with Alu Empire’s high-performance uPVC doors and windows. Designed for durability, comfort, and modern aesthetics — we bring you lasting quality with minimal upkeep.',
 };
 
-const GA_ID = 'AW-16659725378';
+const GA_ID = 'AW-17338354366';
 
 export default function RootLayout({
   children,
