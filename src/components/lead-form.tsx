@@ -51,7 +51,6 @@ const formSchema = z.object({
     }),
 });
 
-
 export default function LeadForm() {
     const [step, setStep] = useState(1);
     const [isSubmitting, setIsSubmitting] = useState(false);
@@ -84,6 +83,13 @@ export default function LeadForm() {
         setIsSubmitting(false);
 
         if (result.success) {
+            // ✅ Fire Google Ads conversion as soon as Step 1 is completed
+            if (typeof window !== "undefined" && typeof window.gtag === "function") {
+                window.gtag("event", "conversion", {
+                    send_to: "AW-17338354366/8sWpCITnsfEaEL6VyctA",
+                });
+            }
+
             setStep(2);
         } else {
             toast({
@@ -176,7 +182,6 @@ export default function LeadForm() {
                                         </FormItem>
                                     )}
                                 />
-
                             </>
                         )}
 
