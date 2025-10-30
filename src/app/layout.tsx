@@ -34,7 +34,7 @@ export default function RootLayout({
           `}
         </Script>
 
-        <script src="//code.tidio.co/bdmtqpq4b4dqdre0zp8envvhzqjx6kye.js" async></script>
+        <script src="//code.tidio.co/mz0zv7hmp9t2yzol4urumx6hbtteto6m.js" async></script>
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
