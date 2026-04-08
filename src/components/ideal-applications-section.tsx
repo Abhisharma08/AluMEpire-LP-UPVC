@@ -12,7 +12,7 @@ const applications = [
 export default function IdealApplicationsSection() {
   return (
     <section id="applications" className="py-20 sm:py-24 bg-secondary">
-      <div className="container mx-auto px-4">
+      <div className="site-container">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold font-body text-primary sm:text-4xl">Ideal Applications</h2>
         </div>

@@ -30,6 +30,12 @@ const nextConfig: NextConfig = {
         hostname: 'res.cloudinary.com',
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'aluempire.gyanouspro.com',
+        port: '',
+        pathname: '/**',
       }
     ],
   },

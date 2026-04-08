@@ -86,3 +86,9 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+@layer components {
+  .site-container {
+    @apply container mx-auto max-w-7xl px-4;
+  }
+}

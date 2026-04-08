@@ -27,7 +27,7 @@ import {
   export default function FaqSection() {
     return (
       <section id="faq" className="py-20 sm:py-32">
-        <div className="container mx-auto px-4">
+        <div className="site-container">
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold font-body text-primary sm:text-4xl">FAQs</h2>
           </div>

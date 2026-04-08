@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 export default function CtaSection() {
   return (
     <section className="py-20 sm:py-24 bg-secondary">
-      <div className="container mx-auto px-4">
+      <div className="site-container">
         <div className="text-center">
             <h2 className="text-3xl font-bold font-body text-primary sm:text-4xl">
             Ready to Upgrade Your Home?

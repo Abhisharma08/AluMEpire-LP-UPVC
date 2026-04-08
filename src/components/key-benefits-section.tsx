@@ -37,7 +37,7 @@ const benefits = [
 export default function KeyBenefitsSection() {
   return (
     <section id="benefits" className="py-20 sm:py-32">
-      <div className="container mx-auto px-4">
+      <div className="site-container">
         <div className="text-center">
           <h2 className="text-3xl font-bold font-body text-primary sm:text-4xl">Why Alu Empire?</h2>
         </div>

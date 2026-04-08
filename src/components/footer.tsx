@@ -7,7 +7,7 @@ export default function Footer() {
 
   return (
     <footer className="border-t border-border/40">
-      <div className="container mx-auto px-4 py-16 text-center">
+      <div className="site-container py-16 text-center">
         <div className="flex justify-center mb-8">
             <Logo />
         </div>

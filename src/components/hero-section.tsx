@@ -16,15 +16,14 @@ export default function HeroSection() {
         />
         <div className="absolute inset-0 bg-black/60" />
       </div>
-      <div className="relative container mx-auto px-4 py-24 sm:py-32">
+      <div className="site-container relative py-24 sm:py-32">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="text-white max-w-2xl text-center lg:text-left">
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold font-body tracking-tight">
-              <span className="text-primary">Elevate</span> Your Living Space with Premium <span className="text-primary">uPVC Doors & Windows</span>
+              <span className="text-primary">Elevate</span> Your Living Space with Premium <span className="text-primary">uPVC Doors, Windows & Sliding Doors</span>
             </h1>
             <p className="mt-6 text-lg md:text-xl font-body text-gray-300">
-             Discover a smarter, stronger, and more sustainable way to style your home with Alu Empire’s high-performance uPVC doors and windows. Designed for durability, comfort, and modern aesthetics — we bring you lasting quality with minimal upkeep.
-
+              Discover a smarter, stronger, and more sustainable way to style your home with Alu Empire's high-performance uPVC doors, windows, and sliding doors. Designed for durability, comfort, and modern aesthetics - we bring you lasting quality with minimal upkeep.
             </p>
             <div className="mt-8">
               <Button size="lg" asChild>
