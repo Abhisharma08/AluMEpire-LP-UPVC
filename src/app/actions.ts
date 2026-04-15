@@ -134,6 +134,7 @@ export async function submitStep1(data: z.infer<typeof step1Schema>) {
     { property: 'lastname', value: lastName || '' },
     { property: 'email', value: data.email },
     { property: 'phone', value: data.phone },
+     { property: 'lead_source', value: "uPVC Solutions Landing Page" },
   ];
   return await createHubspotContact(properties);
 }
